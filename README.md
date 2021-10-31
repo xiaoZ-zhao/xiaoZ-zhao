@@ -12,7 +12,7 @@ About Commit & About Language
 -----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoZ-zhao&count_private=true&show_icons=true&theme=vue&custom_title=xiaozhao's-Commit)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoZ-zhao&custom_title=xiaozhao's-Language)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoZ-zhao&custom_title=xiaozhao's-Language&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
